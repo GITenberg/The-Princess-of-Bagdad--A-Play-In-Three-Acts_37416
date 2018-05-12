@@ -1,0 +1,30 @@
+_repo: The-Princess-of-Bagdad--A-Play-In-Three-Acts_37416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, A. (Alexandre)
+    - Dumas fils, Alexandre
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+description: ''
+gutenberg_issued: '2011-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 19th century -- Translations into English'
+- !lcc 'PQ'
+title: 'The Princess of Bagdad: A Play In Three Acts'
+url: http://www.gutenberg.org/ebooks/37416
